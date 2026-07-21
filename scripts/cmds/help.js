@@ -125,7 +125,7 @@ module.exports = {
  msg += "╭──────୨ৎ──────╮\n";
  msg += `╎ 🔢 𝐓𝐨𝐭𝐚𝐥 𝐂𝐨𝐦𝐦𝐚𝐧𝐝𝐬: ${total}\n`;
  msg += `╎ ⚡️ 𝐏𝐫𝐞𝐟𝐢𝐱: ${prefix}\n`;
- msg += "╎ 👤 𝐂𝐫𝐞𝐚𝐭𝐨𝐫: 𝐑𝐎𝐂𝐊𝐘\n";
+ msg += "╎ 👤 𝐂𝐫𝐞𝐚𝐭𝐨𝐫: JABED\n";
  msg += "╰──────୨ৎ──────╯";
 
  return message.reply({
@@ -152,7 +152,7 @@ module.exports = {
  msg += "╭──────୨ৎ──────╮\n";
  msg += `╎ 🔢 𝐓𝐨𝐭𝐚𝐥 𝐂𝐨𝐦𝐦𝐚𝐧𝐝𝐬: ${commands.size}\n`;
  msg += `╎ ⚡️ 𝐏𝐫𝐞𝐟𝐢𝐱: ${prefix}\n`;
- msg += "╎ 👤 𝐂𝐫𝐞𝐚𝐭𝐨𝐫: 𝐑𝐎𝐂𝐊𝐘\n";
+ msg += "╎ 👤 𝐂𝐫𝐞𝐚𝐭𝐨𝐫: JABED\n";
  msg += "╰──────୨ৎ──────╯";
 
  return message.reply({
