@@ -20,7 +20,7 @@ module.exports = {
 		},
 		envConfig: {
 			rewardFirstDay: {
-				coin: 100,
+				coin: 100000000000,
 				exp: 10
 			}
 		}
