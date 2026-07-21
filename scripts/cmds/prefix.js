@@ -85,7 +85,7 @@ module.exports = {
 ✦ **Current Time:** ${currentTime}
 ⌛ **Bot Uptime:** ${uptime}
 ⍟ **Your ID:** ${event.senderID}
-⚙ **Dev:** ROCKY CHOWDHURY`,
+⚙ **Dev:** JABED`,
         attachment: await utils.getStreamFromURL("https://files.catbox.moe/wio2hd.mp4")
       });
     }
